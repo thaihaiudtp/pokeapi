@@ -1,0 +1,36 @@
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+.text {
+    background-color: rgb(251, 255, 10);
+    padding: 20px;
+    
+}
+.text h1 {
+    color: blue;
+    font-size: 40px;
+}
+.text p {
+    color: blue;
+}
+.list {
+    background-color: blue;
+    padding: 20px;
+    color: white;
+    width: 400px;
+}
+
+
+.list img {
+    width: 130px;
+    height: 150px;
+    border-radius: 20px;
+    float: left;
+    margin-right: 37px;
+}
+ul {
+    list-style-type: none;
+}
